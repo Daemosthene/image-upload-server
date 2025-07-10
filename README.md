@@ -1,6 +1,13 @@
 # Image Upload Server
 
 A simple Python HTTP server for uploading and converting images to PNG format.
+## Screenshots
+
+### Server Dialog
+![Server Screenshot](assets/screenshot1.png)
+
+### Image Upload Dialog
+![File Upload Screenshot](assets/screenshot2.png)
 
 ## Features
 
